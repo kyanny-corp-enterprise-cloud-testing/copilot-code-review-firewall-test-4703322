@@ -1,4 +1,4 @@
-FREE_SHIPPING_MINIMUM = 5000
+FREE_SHIPPING_MINIMUM = 3000
 
 
 def qualifies_for_free_shipping(order_total):
